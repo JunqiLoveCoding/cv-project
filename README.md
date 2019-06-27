@@ -33,7 +33,7 @@ map the disparity map to depth map
   - Normalized cross-correlation (NCC)  
   
 ### Result
-The test data we used is the pentagon scene from Carnegie Mellon Vision.
-![alt text](/pentagon_left.bmp "Left")
-![alt text](/pentagon_right.bmp "Right")
+The test data we used is the pentagon scene from Carnegie Mellon Vision.  
+![alt text](/stereo/pentagon_left.bmp "Left")  
+![alt text](/stereo/pentagon_right.bmp "Right")  
 
