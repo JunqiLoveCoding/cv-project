@@ -34,6 +34,5 @@ map the disparity map to depth map
   
 ### Result
 The test data we used is the pentagon scene from Carnegie Mellon Vision.  
-![alt text](/stereo/pentagon_left.bmp "Left")  
-![alt text](/stereo/pentagon_right.bmp "Right")  
+![alt text](/stereo/pentagon_left.bmp "Left") ![alt text](/stereo/pentagon_right.bmp "Right")
 
